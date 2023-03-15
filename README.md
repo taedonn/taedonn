@@ -1,6 +1,6 @@
 <div align="center">
 
-📌 프론트엔드 개발자 이태호입니다.
+📌 프론트엔드 개발자 이태호입니다
 
 taedonn@outlook.com · [taedonn.tistory.com](https://taedonn.tistory.com/)
 
