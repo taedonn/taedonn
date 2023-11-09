@@ -22,7 +22,6 @@ taedonn@taedonn.com · [taedonn.tistory.com](https://taedonn.tistory.com/)
 <div>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=141414"/> 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=Vue.js&logoColor=white"/> 
@@ -33,6 +32,7 @@ taedonn@taedonn.com · [taedonn.tistory.com](https://taedonn.tistory.com/)
 
 <div>
 
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=141414"/> 
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/> 
 
 </div>
