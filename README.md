@@ -1,6 +1,6 @@
 <div>
   
-😊 Hi! I'm Tae Lee.
+Hi, I'm Tae Lee.
 
 taedonn@taedonn.com · [taedonn.tistory.com](https://taedonn.tistory.com/)
 
