@@ -30,6 +30,7 @@ taedonn@taedonn.com · [taedonn.tistory.com](https://taedonn.tistory.com/)
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=141414"/> 
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON Web Tokens"/> 
 
 </div>
 
