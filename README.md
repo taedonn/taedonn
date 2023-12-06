@@ -1,6 +1,6 @@
 Hi! I'm Tae Lee.
 
-taedonn@taedonn.com · [taedonn.tistory.com](https://taedonn.tistory.com/)
+taedonn@taedonn.com · [taedonn.com](https://taedonn.com/)
 
 &nbsp;
 
