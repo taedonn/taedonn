@@ -9,7 +9,7 @@ taedonn@taedonn.com · [taedonn.com](https://taedonn.com/)
 <div>
   
 <img src="https://img.shields.io/badge/javascript-F0db4f?style=for-the-badge&logo=javascript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 </div>
 
