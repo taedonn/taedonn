@@ -43,7 +43,7 @@ taedonn@taedonn.com · [taedonn.com](https://taedonn.com/)
 
 </div>
 
-#### DevOps
+#### Tools & IDEs
 
 <div>
 
