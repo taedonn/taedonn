@@ -40,8 +40,10 @@ taedonn@taedonn.com · [taedonn.com](https://taedonn.com)
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL badge"/> 
 <img src="https://img.shields.io/badge/NoSQL-C925D1?style=for-the-badge&logo=amazondocumentdb&logoColor=ffffff" alt="NoSQL badge"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL badge"/> 
 <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma badge"/> 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase badge"/> 
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase badge"/> 
 
 </div>
 
