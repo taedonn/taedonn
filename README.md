@@ -1,68 +1,83 @@
-Hi! I'm Tae Lee.
+# 👋 Hi!
 
-taedonn@taedonn.com · [taedonn.com](https://taedonn.com)
+I'm a Full Stack Developer who enjoys turning ideas into simple, reliable solutions.
 
-&nbsp;
+- 💻 Mainly working with **Java, Oracle, React, TypeScript**
+- 🔍 Interested in **web performance, architecture, and developer experience**
+- 🛠️ I like understanding _why_ things work, not just making them work
+- 🌱 Always learning, one problem at a time
 
-#### Languages
+> Build simple. Understand deeply.
 
-<div>
-  
-<img src="https://img.shields.io/badge/javascript-F0db4f?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge"/> 
-<img src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge"/>
+---
 
-</div>
+## 🛠️ Tech Stack
 
-#### Frameworks
+### Frontend
 
-<div>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white)
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js badge"/> 
-<img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=black" alt="Vue.js badge"/> 
-<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=black" alt="Nuxt.js badge"/> 
+### Backend
 
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-c74634?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-#### Libraries
+### DevOps & Tools
 
-<div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-F05032?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white)
+![Intellij](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=141414" alt="React badge"/> 
-<img src="https://img.shields.io/badge/Tailwind CSS-38BDF8?style=for-the-badge&logo=TailwindCSS&logoColor=white" alt="Tailwind CSS badge"/> 
-<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI badge"/> 
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBoZWlnaHQ9IjI1MDAiIHZpZXdCb3g9Ii40IC4zIDk5LjcgMTAwIiB3aWR0aD0iMjUwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Im01Ny44IDI3LjItLjEtMjYuOWgtMTVsLjEgMjYuOSA3LjUgMTAuM3ptLTE1IDQ2LjF2MjdoMTV2LTI3bC03LjUtMTAuM3oiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJtNTcuOCA3My4zIDE1LjggMjEuOCAxMi4xLTguOC0xNS44LTIxLjgtMTIuMS0zLjl6bS0xNS00Ni4xLTE1LjktMjEuOC0xMi4xIDguOCAxNS44IDIxLjggMTIuMiAzLjl6IiBmaWxsPSIjMDBmMmU2Ii8+PHBhdGggZD0ibTMwLjYgMzYtMjUuNi04LjMtNC42IDE0LjIgMjUuNiA4LjQgMTIuMS00em0zMS44IDE4LjIgNy41IDEwLjMgMjUuNiA4LjMgNC42LTE0LjItMjUuNi04LjN6IiBmaWxsPSIjMDBiOWYxIi8+PHBhdGggZD0ibTc0LjUgNTAuMyAyNS42LTguNC00LjYtMTQuMi0yNS42IDguMy03LjUgMTAuM3ptLTQ4LjUgMC0yNS42IDguMyA0LjYgMTQuMiAyNS42LTguMyA3LjUtMTAuM3oiIGZpbGw9IiNkNjNhZmYiLz48cGF0aCBkPSJtMzAuNiA2NC41LTE1LjggMjEuOCAxMi4xIDguOCAxNS45LTIxLjh2LTEyLjd6bTM5LjMtMjguNSAxNS44LTIxLjgtMTIuMS04LjgtMTUuOCAyMS44djEyLjd6IiBmaWxsPSIjZmIwMTViIi8+PC9nPjwvc3ZnPg==" alt="JWT badge"/> 
+---
 
-</div>
+## 🚀 Projects
 
-#### Databases
+### CGV Web/App Renewal & Maintenance
 
-<div>
+> 2024.10~
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL badge"/> 
-<img src="https://img.shields.io/badge/NoSQL-C925D1?style=for-the-badge&logo=amazondocumentdb&logoColor=ffffff" alt="NoSQL badge"/> 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL badge"/> 
-<img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma badge"/> 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase badge"/> 
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase badge"/> 
+- **Role:** Full Stack Developer
+- **Tech:** Java, Oracle, Next.js, TypeScript
+- **Description:**
+  - **Seat Map Revamp / 좌석도 개편 (2025.07~2025.10):** Implemented Canvas-based seat map rendering and zoom in/out functionality, with coordinate-based seat positioning and selection interactions / Canvas 기반 좌석도 렌더링 및 줌인/아웃 기능 구현, 좌표 기반 좌석 배치 및 선택 인터랙션 개발
+  - **Project Renewal / 차세대시스템구축 (2024.10~2025.07):** Designed and maintained complex payment flows, including PG integration, payment method transitions, and multiple discount combinations / PG 연동 및 결제수단 전환, 다양한 할인수단 조합을 지원하는 복합 결제 로직 설계 및 유지보수
+- [🌐 cgv.co.kr](#)
 
-</div>
+### Fonts Archive
 
-#### Tools & IDEs
+> 2023.05~
 
-<div>
+- **Role:** Full Stack Developer
+- **Tech:** Prisma, MySQL, Next.js, TypeScript
+- **Description:** A web platform that collects and organizes commercially free fonts for easy discovery and use. Designed, architected, and developed the entire service from scratch, covering UI/UX design, system architecture, database design, frontend, backend, and deployment / 상업적 무료 사용 가능 폰트 저장소. 서비스 구조, DB 설계, 개발 및 배포까지 전 과정 설계 및 구현
+- [🌐 fonts.taedonn.com](https://fonts.taedonn.com)
+- [🔗 GitHub Organization](https://github.com/fonts-archive)
+- [🔗 GitHub Repository](https://github.com/taedonn/fonts-archive)
 
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge"/> 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge"/> 
-<img src="https://img.shields.io/badge/gitbook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook badge"/> 
-<img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white" alt="Sourcetree badge"/> 
+---
 
-</div>
+## 📫 Contact
 
-#### AWS
-
-<div>
-
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white" alt="Amazon S3 badge"/> 
-<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white" alt="Amazon RDS badge"/> 
-
-</div>
+- GitHub: [@taedonn](https://github.com/taedonn)
+- Email: taedonn@taedonn.com
